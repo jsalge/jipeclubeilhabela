@@ -1,0 +1,7 @@
+.blocoSite{
+    height: 100vh;
+    width: 100vw;
+    position: relative; /* Necessário para que o Image com fill funcione */
+    overflow: hidden;
+    scroll-snap-align: start;
+}

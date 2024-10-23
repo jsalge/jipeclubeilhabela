@@ -1,0 +1,17 @@
+
+.container{
+
+}
+
+.container::-webkit-scrollbar{
+  width: 5px;
+  background-color: rgb(54 95 61);
+  opacity: 0.5;
+}
+.container::-webkit-scrollbar-thumb{
+  width: 12px;
+  background-color: #ed7114;
+}
+.container::-webkit-scrollbar-thumb:hover{
+  width: 12px;
+}
